@@ -1,2 +1,2 @@
 # GIT-docs
-An help document for myself, just makr a memo.
+An help document for myself, just make a memo.

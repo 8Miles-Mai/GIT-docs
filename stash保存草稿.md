@@ -13,7 +13,7 @@
 	git checkout old_branch
 	git stash pop
 
-## 更好的方法 ##
+## more ##
 实际上，为了不破坏一次提交完成一个任务的原则，我们可以将多次本地提交合并为一次。请参考[《合并本地提交记录》][1]
 
 [1]:https://github.com/8Miles-Mai/GIT-docs/blob/master/合并本地提交记录.md
